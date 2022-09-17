@@ -42,6 +42,7 @@ img[alt$="<"] {
 ### In order to achieve my goals, I look for any opportunities for self-development and never miss them. Therefore, I entered RS School because I saw such a chance in evolving my knowledge and practical sklls of working on real projects to start my professional career as a junior frontend developer in the international IT company EPAM in future. Moreover, I am interested in gaining skills in software development and web applications not only in my motherland but also abroad. That is why I have recently applied for admission to Reutlingen University in Germany.
 
 <br />
+<br />
 
 # HARD SKILLS
 
@@ -52,6 +53,7 @@ img[alt$="<"] {
 3. ### **Version control systems and development tools:** GIT, Visual Studio Code, HTML, CSS, SASS/SCSS, Prepros, Webpack, Babel, Node.js, Github, Markdown.
 4. ### **Database knowledge:** phpMyAdmin, MySQL.
 
+<br />
 <br />
 
 # CODE EXAMPLES
@@ -70,6 +72,7 @@ function mergeArrays(arr1, arr2) {
 ```
 
 <br />
+<br />
 
 # WORK EXPERIENCE
 
@@ -82,6 +85,7 @@ function mergeArrays(arr1, arr2) {
 - ### **My CV from Stage #0:** https://hobiho180294.github.io/rsschool-cv-stage0/
 - ### **Website developed during the EPAM Marathon of IT technologies for Ukrainian students:** https://logoipsum123.000webhostapp.com/logoipsum/index.html
 
+<br />
 <br />
 
 # EDUCATION
@@ -111,6 +115,7 @@ function mergeArrays(arr1, arr2) {
 | 21.04.2021 – 22.04.2021                                                                 | 15.12.2021                                                                                                        |
 | _Article: “The use of Python for the development of artificial neural net-works”_       | _Article: “Gamification of Higher Education in the European Union”_                                               |
 
+<br />
 <br />
 
 # KNOWLEDGE OF ENGLISH
