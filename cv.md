@@ -53,3 +53,20 @@ img[alt$="<"] {
 4. ### **Database knowledge:** phpMyAdmin, MySQL.
 
 <br />
+
+# CODE EXAMPLES
+
+### The purpose of the function below is to merge two sorted arrays into one:
+
+```javascript
+function mergeArrays(arr1, arr2) {
+  const sortArray = [...arr1, ...arr2].sort((a, b) => a - b);
+  const arr3 = sortArray.filter(
+    (element, index) => sortArray.indexOf(element) === index
+  );
+
+  return arr3;
+}
+```
+
+<br />
