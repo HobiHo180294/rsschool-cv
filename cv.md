@@ -112,3 +112,12 @@ function mergeArrays(arr1, arr2) {
 | _Article: “The use of Python for the development of artificial neural net-works”_       | _Article: “Gamification of Higher Education in the European Union”_                                               |
 
 <br />
+
+# KNOWLEDGE OF ENGLISH
+
+- ### My English level is **B2**.
+- ### The confirmation of my level of English proficiency is the successful completion of the paper-based language test that meets the requirements of CEF for Independent User B2 Level, Upper-Intermediate.
+
+- ### In addition, I have successfully passed the External Independent Assessment at 175/200.
+
+- ### I participated in scientific conferences in English at my University. My scientific experience is described above.
