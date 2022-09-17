@@ -76,3 +76,39 @@ function mergeArrays(arr1, arr2) {
 ### Unfortunately, I have no commercial experience in programming. However, I am a versatile person and used to work as a freelancer where I was engaged with copywriting. I had been working as a copywriter from 01.07.2020 to 30.09.2020 and my work was based on writing texts for online stores in Ukrainian, English and Russian. Nevertheless, nowadays I devote most of my life to programming, because I want to start a career in this area.
 
 <br />
+
+## My Projects:
+
+- ### **My CV from Stage #0:** https://hobiho180294.github.io/rsschool-cv-stage0/
+- ### **Website developed during the EPAM Marathon of IT technologies for Ukrainian students:** https://logoipsum123.000webhostapp.com/logoipsum/index.html
+
+<br />
+
+# EDUCATION
+
+| High-school education                                                                    | Computer Science (Bachelor Degree)                                                               |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2009 – 2020                                                                              | 2020 – present time                                                                              |
+| _Municipal educational institution "Educational complex №36" of the Dnipro City Council_ | _Dnipro University of Technology, Faculty of Information Technology, Specialty Computer Science_ |
+
+<br />
+
+## TRAINING
+
+| EPAM                                                  | The Rolling Scopes School               |
+| ----------------------------------------------------- | --------------------------------------- |
+| 19.04.2022 – 18.05.2022                               | 01.06.2022 – 02.09.2022                 |
+| _Marathon of IT technologies for students of Ukraine_ | _Course: “JS/FE Pre-School 2022Q2”_     |
+|                                                       | 02.09.2022 – present time               |
+|                                                       | _Course: “JavaScript/Front-end 2022Q3”_ |
+
+<br />
+
+## SCHOLARLY WORK
+
+| The 16th International Forum for Students and Young Researchers “Widening Our Horizons” | The 16th International Conference “Problems of Using Information Technologies in Education, Science and Industry” |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 21.04.2021 – 22.04.2021                                                                 | 15.12.2021                                                                                                        |
+| _Article: “The use of Python for the development of artificial neural net-works”_       | _Article: “Gamification of Higher Education in the European Union”_                                               |
+
+<br />
